@@ -1,0 +1,25 @@
+<script lang="ts">
+	interface Props {
+		size?: number;
+		width?: number;
+		height?: number;
+		stroke?: string;
+	}
+
+	let { size = NaN, width = 20, height = 20, stroke = 'black' }: Props = $props();
+</script>
+
+<svg
+	width={width || size}
+	height={height || size}
+	viewBox="0 0 16 16"
+	fill="none"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<path
+		d="M8.0001 14.8001H14.4001M10.0001 3.2001L12.8001 5.6001M2.8001 10.4001L10.6877 2.23705C11.5369 1.38778 12.9139 1.38778 13.7631 2.23705C14.6124 3.08631 14.6124 4.46325 13.7631 5.31252L5.6001 13.2001L1.6001 14.4001L2.8001 10.4001Z"
+		{stroke}
+		stroke-linecap="round"
+		stroke-linejoin="round"
+	/>
+</svg>

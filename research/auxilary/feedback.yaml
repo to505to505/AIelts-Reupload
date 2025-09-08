@@ -1,0 +1,97 @@
+{
+  "grammar_feedback": {
+    "ActualVersions": [
+      "I prefer to play piano",
+      "you can spend your time on listening to music",
+      "different flavor if you want to add to it",
+      "For every celebration I try to bake cake",
+      "I took IELTS test in 2009",
+      "travel to other country",
+      "when she brought up, when she will bring up",
+      "I had learned English for about 12 years",
+      "the first point that I travel to other country",
+      "art of teaching is the most important point",
+      "are not good at in their fields",
+      "among of people",
+      "It's natural ability",
+      "you can gain it",
+      "no problem about any problems"
+    ],
+    "TypeOfMistake": [
+      "Incorrect use of articles",
+      "Incorrect or missing prepositions",
+      "Incorrect use of countable nouns",
+      "Incorrect use of articles",
+      "Incorrect use of articles",
+      "Incorrect use of articles/countable nouns",
+      "Incorrect verb tense",
+      "Incorrect verb tense",
+      "Incorrect use of articles/countable nouns",
+      "Incorrect use of articles",
+      "Incorrect or missing prepositions",
+      "Incorrect or missing prepositions",
+      "Incorrect use of articles",
+      "Subject-verb agreement errors",
+      "Incorrect or missing prepositions"
+    ],
+    "CorrectedVersions": [
+      "I prefer to play the piano",
+      "you can spend your time listening to music",
+      "different flavors if you want to add to them",
+      "For every celebration I try to bake a cake",
+      "I took the IELTS test in 2009",
+      "travel to another country / other countries",
+      "when she grows up",
+      "I learned English for about 12 years",
+      "the first point is that I travel to another country",
+      "The art of teaching is the most important point",
+      "are not good at their fields",
+      "among people",
+      "It's a natural ability",
+      "you can gain them",
+      "no problem with any problems"
+    ],
+    "CommentaryGrammar": "<h2>Overall Grammar Feedback</h2>\n<p>Your grammatical range shows a good attempt at complex structures, but there are several areas where improvement is needed. You frequently omit articles, such as in \"play piano\" instead of \"play the piano,\" which can lead to confusion. Additionally, there are issues with prepositions, as seen in phrases like \"among of people\" instead of \"among people.\" Subject-verb agreement errors, such as \"are not good at in their fields,\" also detract from your overall clarity. Furthermore, your verb tenses are inconsistent, particularly when discussing past experiences, as in \"I had learned English\" instead of \"I learned English.\" Addressing these weaknesses will enhance your grammatical accuracy and overall fluency.</p>\n\n<h2>Comment on Advanced Grammar Structures</h2>\n<p>You have made some attempts to use advanced grammar structures, such as conditionals and relative clauses, but there is room for more variety. For instance, using inversion for emphasis could strengthen your statements, e.g., \"Never have I felt so passionate about teaching.\" Cleft sentences could also be beneficial, such as \"It is teaching that I am most passionate about.\" Incorporating passive voice could help shift focus in your responses, e.g., \"The lessons are taught by me.\" Additionally, using the subjunctive mood could enhance your expressions of wishes or hypothetical situations, e.g., \"I suggest that my students practice more.\" Expanding your use of these structures will demonstrate a higher level of grammatical sophistication.</p>"
+  },
+  "lexical_feedback": {
+    "OriginalSentences": [
+      "I don't have enough time",
+      "it gives me more energy",
+      "I prefer to play piano",
+      "economical problems",
+      "enhance your mood",
+      "different flavor if you want to add to it",
+      "conveying meaning",
+      "get your IELTS degree",
+      "when she will bring up",
+      "I have no problem about any problems",
+      "among of people",
+      "gain it with some intensive courses",
+      "positive point on him",
+      "according to their life",
+      "follow your dreams"
+    ],
+    "RephrasedSentences": [
+      "I don't have much free time",
+      "it rejuvenates me",
+      "I would prefer to play the piano",
+      "economic issues",
+      "improve your mood",
+      "various flavors if desired",
+      "effectively communicating concepts",
+      "obtain your IELTS certification",
+      "when she grows up",
+      "I can handle any challenges",
+      "among people",
+      "acquire through intensive courses",
+      "positive influence on him",
+      "based on their lifestyle",
+      "pursue your aspirations"
+    ],
+    "CommentaryLexical": "<h2>Overall Commentary on Lexical Resource</h2>\n<p>The student demonstrates a reasonable range of vocabulary, but there are several inaccuracies and instances of awkward phrasing that hinder clarity. While the student attempts to use varied expressions, some choices are not idiomatic or contextually appropriate. To improve lexical resource, the student should focus on expanding vocabulary through reading and listening to diverse English materials, practicing synonyms, and engaging in conversations that challenge their language use. Additionally, refining word choice for precision and appropriateness will enhance overall communication effectiveness.</p>\n\n<h2>Synonyms</h2>\n<p><strong>'time'</strong> - 'free time', 'leisure time', 'spare time'</p>\n<p><strong>'energy'</strong> - 'vitality', 'enthusiasm', 'exuberance'</p>\n<p><strong>'piano'</strong> - 'the piano', 'keyboard instrument', 'musical keyboard'</p>\n<p><strong>'economical problems'</strong> - 'economic issues', 'financial difficulties', 'monetary concerns'</p>\n<p><strong>'enhance'</strong> - 'improve', 'boost', 'elevate'</p>\n<p><strong>'different flavor'</strong> - 'various flavors', 'diverse tastes', 'multiple flavors'</p>\n<p><strong>'conveying'</strong> - 'communicating', 'expressing', 'transmitting'</p>\n<p><strong>'IELTS degree'</strong> - 'IELTS certification', 'IELTS qualification', 'IELTS credential'</p>\n<p><strong>'bring up'</strong> - 'grow up', 'mature', 'develop'</p>\n<p><strong>'problem about'</strong> - 'issue with', 'difficulty regarding', 'challenge with'</p>\n<p><strong>'among of'</strong> - 'among', 'in the midst of', 'within'</p>\n<p><strong>'gain it with'</strong> - 'acquire through', 'attain via', 'achieve through'</p>\n<p><strong>'positive point on'</strong> - 'positive influence on', 'beneficial impact on', 'constructive effect on'</p>\n<p><strong>'according to'</strong> - 'based on', 'in relation to', 'in accordance with'</p>\n<p><strong>'follow your dreams'</strong> - 'pursue your aspirations', 'chase your dreams', 'realize your goals'</p>"
+  },
+  "coherence_feedback": {
+    "CommentaryCoherence": "The student demonstrated a fair level of fluency and coherence throughout the speaking test. However, there were moments where the answers could have been more structured. For instance, in Part 1, the responses were somewhat brief and could benefit from elaboration to showcase more language proficiency. In Part 2, the student maintained a good length (122 seconds), which is within the optimal range, but the ideas could have been more clearly organized. Logical connections were sometimes unclear, particularly in the transition between thoughts. To improve, the student should practice structuring answers with clear main points and supporting details. Engaging in more conversational practice and listening to fluent speakers can help enhance coherence and fluency. Additionally, focusing on linking ideas logically will aid in creating smoother transitions between thoughts."
+  },
+  "speed_of_speech": 0.4071661237785016
+}

@@ -1,0 +1,96 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+
+@font-face {
+	font-family: 'Manrope';
+	src: url('/fonts/manrope/Manrope-VariableFont_wght.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@theme {
+	--font-sans: 'Manrope', sans-serif;
+
+	--font-size-base: 16px;
+
+	--text-h2: 2rem;
+	--text-h3: 1.5rem;
+	--text-md: 1rem;
+	--text-lg: 1.25rem;
+	--text-sm: 0.875rem;
+
+	--radius: calc(1.3rem - 4px);
+	--radius-tiny: calc(1.3rem - 12px);
+	--radius-sm: calc(1.3rem - 8px);
+	--radius-md: calc(1.3rem - 4px);
+	--radius-lg: calc(1.3rem);
+	--radius-xl: calc(1.3rem + 4px);
+	--radius-4xl: calc(1.3rem + 11px);
+
+	--color-white: #ffffff;
+	--color-gray: #f5f5f5;
+	--color-danger: #feebeb;
+	--color-danger: #f23b3b;
+
+	--color-whisper-100: #ebebeb;
+	--color-whisper-150: #e0e0e0;
+	--color-whisper-200: #d6d6d6;
+	--color-whisper-300: #c2c2c2;
+	--color-whisper-500: #999999;
+	--color-whisper-700: #5e5e5e;
+	--color-whisper-800: #3e3e3e;
+	--color-whisper-950: #141414;
+
+	--color-rapture-50: #fff7f5;
+	--color-rapture-100: #ffe5dc;
+	--color-rapture-150: #ffd7cb;
+	--color-rapture-200: #ffbda8;
+	--color-rapture-300: #f8a489;
+	--color-rapture-400: #fb8e6b;
+	--color-rapture-500: #fe7b51;
+	--color-rapture-600: #d36441;
+	--color-rapture-700: #9a472d;
+	--color-rapture-800: #7d3720;
+	--color-rapture-900: #522110;
+	--color-rapture-950: #3d1508;
+
+	--color-mindaro-50: #fafff0;
+	--color-mindaro-100: #f6ffcf;
+	--color-mindaro-150: #ecffb4;
+	--color-mindaro-200: #e7ff85;
+	--color-mindaro-300: #d8fb5b;
+	--color-mindaro-400: #c4f229;
+	--color-mindaro-500: #a5d80a;
+	--color-mindaro-600: #6da104;
+	--color-mindaro-700: #587807;
+	--color-mindaro-800: #54670d;
+	--color-mindaro-900: #415710;
+	--color-mindaro-950: #213102;
+
+	--color-chimera-50: #f4f7ff;
+	--color-chimera-100: #e5ecff;
+	--color-chimera-150: #d1dcff;
+	--color-chimera-200: #c1d0ff;
+	--color-chimera-300: #99b2ff;
+	--color-chimera-400: #5982fe;
+	--color-chimera-500: #2f63fe;
+	--color-chimera-600: #2247b9;
+	--color-chimera-700: #1c3c9a;
+	--color-chimera-800: #132869;
+	--color-chimera-900: #091537;
+	--color-chimera-950: #050b1e;
+}
+
+/* @media screen and (min-width: 1024px) {
+	:root {
+		--font-size-base: 18px;
+	}
+} */
+
+:root {
+	border-radius: var(--radius);
+	font-size: var(--font-size-base);
+	color: var(--color-whisper-950);
+}

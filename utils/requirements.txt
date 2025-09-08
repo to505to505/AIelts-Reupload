@@ -1,0 +1,5 @@
+pandas
+openai
+pocketbase
+python-slugify
+python-dotenv
