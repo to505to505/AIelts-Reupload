@@ -11,7 +11,7 @@ On top of that, it is an extremely convenient, easy and pleasent to use applicat
 
 
 
-[^1]:A prediction is considered correct if it differs from the expert's score by no more than 1 point. Evaluated on 11 transcripts from the test sample.
+[^1]:A prediction is considered correct if it differs from the expert's score by no more than 1 point. 3 criteria are predicted: Fluency and Coherence, Lexical Resource, Grammatical Range and Accuracy. Evaluated on 11 transcripts from the test sample, 31 out of 33 criteria overall predicted correctly.
 
 
 ### Presentation 
