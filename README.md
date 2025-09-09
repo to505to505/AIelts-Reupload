@@ -16,7 +16,8 @@ On top of that, it is an extremely convenient, easy and pleasent to use applicat
 
 
 ## Presentation 
-We presented this application as a commercial product on several events. **Click on the image below to view the full PDF presentation.**
+We presented this application as a commercial product on several events.
+**Click on the image below to view the full PDF presentation.**
 
 [![Presentation preview](./docs/AIELTS_presentation_preview.png)](AIELTS_presentation.pdf)
 
