@@ -16,7 +16,7 @@ On top of that, it is an extremely convenient, easy and pleasent to use applicat
 
 ### Presentation 
 We presented this application as a commercial product on several events. 
-[PDF](./docs/AIELTS presentation.pdf)
+[PDF](./docs/AIELTS_presentation.pdf)
 
 ### AIelts Demo Video 
 We also have a Demo video of our application that shows how the platform looks like and how the AI-module works there. 
