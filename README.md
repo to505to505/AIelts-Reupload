@@ -14,6 +14,7 @@ On top of that, it is an extremely convenient, easy and pleasent to use applicat
 
 [^1]:A prediction is considered correct if it differs from the expert's score by no more than 1 point. 3 criteria are predicted: Fluency and Coherence, Lexical Resource, Grammatical Range and Accuracy. Evaluated on 11 transcripts from the test sample, 31 out of 33 criteria overall predicted correctly.
 
+---
 
 ## Presentation 
 We presented this application as a commercial product on several events.
@@ -21,6 +22,7 @@ We presented this application as a commercial product on several events.
 
 [![Presentation preview](./docs/AIELTS_presentation_preview.png)](AIELTS_presentation.pdf)
 
+---
 
 ## AIelts Demo Video 
 We also have a Demo video of our application that shows how the platform looks like and how the AI-module works there. 
