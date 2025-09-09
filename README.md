@@ -11,7 +11,7 @@ On top of that, it is an extremely convenient, easy and pleasent to use applicat
 
 
 
-*A prediction is considered correct if it differs from the expert's score by no more than 1 point. Evaluated on 11 transcripts from the test sample.
+[^1]:A prediction is considered correct if it differs from the expert's score by no more than 1 point. Evaluated on 11 transcripts from the test sample.
 
 
 ### Presentation 
